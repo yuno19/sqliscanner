@@ -1,4 +1,4 @@
-SQLiv
+
 ===
 
 ### Massive SQL injection scanner  
@@ -25,8 +25,6 @@ SQLiv
 > - [google](https://pypi.python.org/pypi/google)
 > - [nyawc](https://pypi.python.org/pypi/nyawc/)
 
-**Pre-installed Systems**  
-- [BlackArch Linux](https://blackarch.org/scanner.html) ![BlackArch](https://raw.githubusercontent.com/BlackArch/blackarch-artwork/master/logo/logo-38-49.png)
 
 ---
 ### Quick Tutorial  
@@ -75,14 +73,4 @@ optional arguments:
 ```
 
 ---
-### screenshots
-![1](https://raw.githubusercontent.com/Hadesy2k/sqliv/master/screenshots/1.png)
-![2](https://raw.githubusercontent.com/Hadesy2k/sqliv/master/screenshots/2.png)
-![3](https://raw.githubusercontent.com/Hadesy2k/sqliv/master/screenshots/3.png)
-![4](https://raw.githubusercontent.com/Hadesy2k/sqliv/master/screenshots/4.png)
 
----
-
-### Development
-**TODO**  
-1. POST form SQLi vulnerability testing
